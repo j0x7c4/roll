@@ -1,0 +1,193 @@
+body {
+font-family: Arial, Helvetica, Verdana, Sans-serif;
+font-size: 12px;
+color: #000000;
+background: #ffffff;
+}
+html, body {
+margin: 0;
+padding: 0;
+
+}
+
+body img{
+border-width: 0px;
+}
+
+#page-container {
+width: 760px;
+margin: auto;
+padding: 10px 10px 10px 10px;
+background: #ffffff;
+
+}
+
+
+
+#main-nav {
+background: red;
+height: 50px;
+}
+#header {
+height: 150px;
+}
+
+#header h1 {
+margin: 0;
+padding: 0;
+}
+
+#header h2 {
+margin: 0;
+padding: 0;
+}
+
+#header h3 {
+margin: 0;
+padding: 0;
+}
+
+#social {
+float: right;
+}
+
+.self-info {
+padding: 10px;
+margin: 5px;
+
+}
+
+.self-info-image {
+float: left;
+margin: 5px;
+}
+
+.self-info-name {
+margin-left: 60px;
+font-size: 30px;
+}
+
+.self-info-text {
+
+}
+
+.roll-form {
+margin: 10px;
+
+}
+
+#sidebar-a {
+float: right;
+width: 250px;
+background: #ffffff;
+border-style: solid;
+border-color: #DCDCDC; 
+border-width: 1px;
+}
+
+feedback {
+float: right;
+width: 250px;
+background: #ffffff;
+
+}
+
+feedback-content {
+border-style: solid;
+border-color: #DCDCDC; 
+border-width: 1px;
+}
+
+#sidebar-a .padding {
+
+}
+
+#content {
+margin-right: 280px;
+line-height: 18px;
+}
+#content .padding {
+
+}
+#content h2 {
+margin: 0;
+padding: 0;
+padding-bottom: 15px;
+}
+#content p {
+margin: 0;
+padding: 0;
+padding-bottom: 15px;
+}
+
+#footer {
+margin:10px;
+clear: both;
+height: 66px;
+}
+
+.stream-navi {
+font-size: 14px;
+font-style: bold;
+word-spacing: 10px;
+
+}
+.stream-navi a {
+text-decoration: none; 
+color: grey;
+}
+
+
+.stream-navi-item {
+
+border-width: 1px;
+padding:2px;
+}
+
+.stream-navi-item-selected {
+
+border-style:solid solid none solid;
+border-color: #DCDCDC;
+border-width: 1px;
+
+padding:2px;
+}
+
+.stream-navi-item-selected a{
+color: #000000;
+}
+
+.stream-items {
+padding:2px;
+border-top-style: solid;
+border-color: #DCDCDC;
+border-width: 1px;
+}
+.stream-item-content {
+padding: 5px;
+border-style:none none dashed none; 
+border-color: #DCDCDC;
+border-width: 1px;
+
+}
+.stream-item :hover {
+border-color: #000000;
+background: #87CEFA;
+}
+.roll-image {
+float: left;
+}
+.roll-content {
+margin-left:60px;
+}
+.roll-row {}
+.roll-user-name {}
+.roll-screen-name user-profile-link {}
+.roll-full-name {}
+.roll-text {}
+.roll-timestamp {
+font-style:italic;
+}
+
+
+
